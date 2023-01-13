@@ -13,7 +13,7 @@
 
 <table>
   <tr>
-    <th color="">Problems</th>
+    <th color="#8A2BE2">Problems</th>
     <th>Condition</th>
   </tr>
   <tr>
