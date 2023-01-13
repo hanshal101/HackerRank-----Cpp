@@ -7,3 +7,27 @@
 <br>
 
 <h3>This Repo consists of solutions of Basic C++ problems in HackerRank. </h3>
+
+
+<table>
+  <tr>
+    <th>Problems</th>
+    <th>Condition</th>
+  </tr>
+  <tr>
+    <th>Hello World</th>
+    <td>DONE</td>
+  </tr>
+  <tr>
+    <th>Input and Output</th>
+    <td>DONE</td>
+  </tr>
+  <tr>
+    <th>Basic Data Types</th>
+    <td>DONE</td>
+  </tr>
+  <tr>
+    <th>Conditional Statements</th>
+    <td>DONE</td>
+  </tr>
+</table>
