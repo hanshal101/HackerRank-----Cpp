@@ -13,23 +13,53 @@
 
 <table>
   <tr>
-    <th color="#8A2BE2">Problems</th>
+    <th>Problems</th>
     <th>Condition</th>
+    <th>Difficulty</th>
   </tr>
   <tr>
     <th>Hello World</th>
     <td>DONE</td>
+    <td>Easy</td>
   </tr>
   <tr>
     <th>Input and Output</th>
     <td>DONE</td>
+    <td>Easy</td>
   </tr>
   <tr>
     <th>Basic Data Types</th>
     <td>DONE</td>
+    <td>Easy</td>
   </tr>
   <tr>
     <th>Conditional Statements</th>
     <td>DONE</td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <th>For Loop</th>
+    <td>NA</td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <th>Functions</th>
+    <td>NA</td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <th>Pointer</th>
+    <td>NA</td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <th>Arrays Introduction</th>
+    <td>NA</td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <th>Variable Sized Arrays</th>
+    <td>NA</td>
+    <td>Easy</td>
   </tr>
 </table>
